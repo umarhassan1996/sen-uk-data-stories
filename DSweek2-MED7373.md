@@ -1,6 +1,6 @@
 # Pupils with special educational needs in England most likely to receive no statement or EHC plan
 
-## Dataset used to work on this story - Department for Education on the Explore Education Statistics website for the gov.uk
+## Dataset used to work on this story - Department for Education on the Explore Education Statistics Service of gov.uk
 [Link to original dataset](https://data.explore-education-statistics.service.gov.uk/api/download/special-educational-needs-in-england/2019-20/data/sen_age_gender.csv)
 
 ## Link to more information about the dataset
@@ -38,6 +38,3 @@ London has the highest number of pupils in education who have a SEN statement or
 
 ## Updated version of story for DS on The DDJ Nerd website
 [The DDJ Nerd - Pupils with special educational needs in England most likely to receive no statement or EHC plan](https://theddjnerd.wordpress.com/2020/09/30/pupils-sen-statement-ehc-plan/)
-
-
-#
