@@ -33,7 +33,7 @@ I did the same thing with the Statement or EHC column where I calculated in Exce
 
 When working out the percentage of pupils with a Statement or EHC plan, I divided the selected region in England by total for all regions. For example, with London, the calculation was =C8/C17 to give me the result of 0.171688987 (or 17% with formatting changes). 
 
-With the North East, I calculated the total of SEN pupils with a Statement or EHC plan by the North East (=C16/C17), which gave me the figure of 0.049560418 (or 5% with formatting changes).
+With the North East, I calculated the total of SEN pupils with a Statement or EHC plan for the North East region (=C16/C17), which gave me the figure of 0.049560418 (or 5% with formatting changes).
 
 This allowed me to compare the region in England with the highest percentage of SEN pupils with a Statement or EHC plan with the lowest percentage of pupils in the country with a Statement or EHC plan.
 
