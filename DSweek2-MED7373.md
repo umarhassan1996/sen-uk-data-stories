@@ -34,8 +34,6 @@ Analysing the Department for Education data on pupils in education with special 
 
 In comparison, 22% (551,201) of pupils have had a statement of special educational needs or a education, health and care plan, covering the same period.
 
-London has the highest number of pupils in education who have a SEN statement or EHC with 17% (94,636). The North East has the lowest number of pupils with a SEN statement or EHC at 5% (27,318).
-
 <h3><strong>What does having no SEN statement or EHC plan mean? </strong></h3>
 
 <p>If a pupil who has special educational needs in the English education system has no SEN statement or EHC plan, then provision should be provided for the child in school through 'SEN Support'.</p>
