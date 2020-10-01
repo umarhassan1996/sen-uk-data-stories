@@ -39,11 +39,11 @@ This allowed me to compare the region in England with the highest percentage of 
 
 ## Short story version
 
-Pupils with Special Educational Needs are most likely to receive no SEN statement or a education, health, and care plan in England.
+Pupils with special educational needs are most likely to receive no SEN statement or a education, health, and care plan in England.
 
-Analysing the Department for Education data on pupils in education with special educational needs, covering the 2019/20 time period, 78% (1,998,840) of pupils in regions across the country had no SEN Statement or EHC plan.
+Analysing the Department for Education data on pupils in education with special educational needs, covering the 2019/20 time period, 78% (1,998,840) of SEN pupils in regions across the country had no SEN Statement or EHC plan.
 
-In comparison, 22% (551,201) of pupils have had a statement of special educational needs or a education, health and care plan, covering the same period.
+In comparison, 22% (551,201) of SEN pupils have had a statement of special educational needs or a education, health and care plan, covering the same period.
 
 <h3><strong>What does having no SEN statement or EHC plan mean? </strong></h3>
 
