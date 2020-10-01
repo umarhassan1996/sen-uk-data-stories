@@ -23,7 +23,7 @@ Working out the percentage of SEN No Statement or EHC and Statement or EHC, I di
 
 For example, to work out the percentage of pupils with SEN No Statement or EHC, I used the SUM function to get the percentage of that field by dividing it from the total number of pupil_sen_status.
 
-To do this, I used =SUM(B8:B16)/D17, which came out as 0.783844684 (with formatting changes, 78%).
+To do this, I used this calculation =SUM(B8:B16)/D17, which came out as 0.783844684 (with formatting changes, 78%).
 
 I did the same thing with Statement or EHC where I calculated =SUM(C8:C16)/D17, which the final result was 0.216155316 (with formatting changes, 22%).
 
