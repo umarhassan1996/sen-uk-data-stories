@@ -9,9 +9,11 @@ The information in this document covers the 2019/2020 academic year dataset with
 
 ## Methodology/Tutorial
 
-For this pivot table, I saved the original csv that I downloaded from the Explore Education Statistics website of gov.uk for SEN by age and gender, covering the 2019/20 academic year as an Excel Workbook before I selected insert to copy all the data into a new sheet to create the Pivot Table.
+For this pivot table, I saved the original csv that I downloaded from the Explore Education Statistics website of gov.uk for SEN by age and gender.
 
-I then created a pivot table that filtered the data to the latest time period (201920) while filtering out the Missing and Total values from the primary_need column.
+The data covered the 2019/20 academic year as an Excel Workbook before I selected insert to copy all the data into a new sheet to create the Pivot Table.
+
+I filtered out the data to the latest time period (201920) while filtering out the Missing and Total values from the primary_need column.
 
 Next, I dragged region_name on Rows and removed (blank) from the view and added number_of_pupils onto Values.
 
@@ -19,13 +21,19 @@ Once I did this, I dragged pupil_sen_status onto Columns where I deselected Tota
 
 The aggregate totals in the pivot table include state-funded nurseries, primary and secondary schools, as well as pupil referral units and non-maintained special schools.
 
-Working out the percentage of SEN No Statement or EHC and Statement or EHC, I divided each of the total value by the combined total in which I got the final percentage for those two categories.
+What I did next was sort out the data from high to low so that it allowed me to recognise which regions in England had the highest to lowest total of pupils with SEN No Statement or EHC or Statement or EHC, depending on the column being used for analysis. 
+
+Working out the percentage of SEN No Statement or EHC and Statement or EHC, I divided the total value of each column by the combined total in which I got the final percentage for those two columns.
 
 For example, to work out the percentage of pupils with SEN No Statement or EHC, I used the SUM function to get the percentage of that field by dividing it from the total number of pupil_sen_status.
 
-To do this, I used this calculation =SUM(B8:B16)/D17, which came out as 0.783844684 (with formatting changes, 78%).
+To do this, I used this calculation to get the percentage of SEN pupils with No Statement or EHC, which was =SUM(B8:B16)/D17, which came out as 0.783844684 (with formatting changes, 78%).
 
-I did the same thing with Statement or EHC where I calculated =SUM(C8:C16)/D17, which the final result was 0.216155316 (with formatting changes, 22%).
+I did the same thing with the Statement or EHC column where I calculated in Excel =SUM(C8:C16)/D17, which the final result was 0.216155316 (with formatting changes, 22%).
+
+When working out the percentage of pupils with a Statement or EHC plan, I divided the selected region in England by total for all regions. For example, with London, the calculation was =C8/C17 to give me the result of 0.171688987 (or 17% with formatting changes). 
+
+With the North East, I calculated the total of SEN pupils with a Statement or EHC plan by the North East (=C16/C17), which gave me the figure of 0.049560418 (or 5% with formatting changes).
 
 ## Short story version
 
