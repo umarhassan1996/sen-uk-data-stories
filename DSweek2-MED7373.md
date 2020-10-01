@@ -1,11 +1,11 @@
 # Pupils with special educational needs in England most likely to receive no statement or EHC plan
 
 ## Dataset used to work on this story - Department for Education on the Explore Education Statistics Service of gov.uk
-[Link to original dataset](https://data.explore-education-statistics.service.gov.uk/api/download/special-educational-needs-in-england/2019-20/data/sen_age_gender.csv)
+[Link to original dataset in csv format](https://data.explore-education-statistics.service.gov.uk/api/download/special-educational-needs-in-england/2019-20/data/sen_age_gender.csv)
 
 ## Link to more information about the dataset
 The information in this document covers the 2019/2020 academic year dataset with statistics around a breakdown of SEN provision, free school meals, gender and ethnicity and more -
-[link to page here](https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england).
+[Link to page here](https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england).
 
 ## Methodology
 For this pivot table, I saved the original csv for SEN by age and gender from the Explore Education Statistics website as an Excel Workbook before I selected insert to copy all the data into a new sheet to create the Pivot Table.
@@ -36,5 +36,17 @@ In comparison, 22% (551,201) of pupils have had a statement of special education
 
 London has the highest number of pupils in education who have a SEN statement or EHC with 17% (94,636). The North East has the lowest number of pupils with a SEN statement or EHC at 5% (27,318).
 
-## Updated version of story for DS on The DDJ Nerd website
+<h3><strong>What does having no SEN statement or EHC plan mean? </strong></h3>
+
+<p>If a pupil who has special educational needs in the English education system has no SEN statement or EHC plan, then provision should be provided for the child in school through 'SEN Support'.</p>
+
+<p>In the <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/398815/SEND_Code_of_Practice_January_2015.pdf">SEND Code of Practice 2015</a>, it explains in Chapter 6 of the Code how schools should assess a child with special educational needs by using the graduated approach of <strong>Assess, Plan, Do, </strong>and <strong>Review.</strong></p>
+
+<p>An <a href="https://www.gov.uk/children-with-special-educational-needs/extra-SEN-help">education, health, and care plan</a> is for children and young people from up to the age of 25 who may need more support than what is required through SEN support.</p>
+
+<p>Pupils who have no statement of special educational needs through an EHC plan are more than twice as likely to be excluded from school, compared with a pupil who has one, according to data from the <a href="https://explore-education-statistics.service.gov.uk/find-statistics/permanent-and-fixed-period-exclusions-in-england">Department of Education</a>.</p>
+
+<p><strong>London</strong> has the highest number of pupils in education who have a SEN statement or EHC with <strong>17%</strong> (94,636). The <strong>North East</strong> has the lowest number of pupils with a SEN statement or EHC at <strong>5%</strong> (27,318).</p>
+
+## Link to story for DS on The DDJ Nerd website
 [The DDJ Nerd - Pupils with special educational needs in England most likely to receive no statement or EHC plan](https://theddjnerd.wordpress.com/2020/09/30/pupils-sen-statement-ehc-plan/)
