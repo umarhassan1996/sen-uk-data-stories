@@ -35,6 +35,8 @@ When working out the percentage of pupils with a Statement or EHC plan, I divide
 
 With the North East, I calculated the total of SEN pupils with a Statement or EHC plan by the North East (=C16/C17), which gave me the figure of 0.049560418 (or 5% with formatting changes).
 
+This allowed me to compare the region in England with the highest percentage of SEN pupils with a Statement or EHC plan with the lowest percentage of pupils in the country with a Statement or EHC plan.
+
 ## Short story version
 
 Pupils with Special Educational Needs are most likely to receive no SEN statement or a education, health, and care plan in England.
