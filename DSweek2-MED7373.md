@@ -8,7 +8,7 @@ The information in this document covers the 2019/2020 academic year dataset with
 [Link to page here](https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england).
 
 ## Methodology
-For this pivot table, I saved the original csv for SEN by age and gender from the Explore Education Statistics website as an Excel Workbook before I selected insert to copy all the data into a new sheet to create the Pivot Table.
+For this pivot table, I saved the original csv that I downloaded from the Explore Education Statistics website of gov.uk for SEN by age and gender, covering the 2019/20 academic year as an Excel Workbook before I selected insert to copy all the data into a new sheet to create the Pivot Table.
 
 I then created a pivot table that filtered the data to the latest time period (201920) while filtering out the Missing and Total values from the primary_need column.
 
