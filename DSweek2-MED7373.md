@@ -55,7 +55,7 @@ In comparison, 22% (551,201) of pupils have had a statement of special education
 
 <p>Pupils who have no statement of special educational needs through an EHC plan are more than twice as likely to be excluded from school, compared with a pupil who has one, according to data from the <a href="https://explore-education-statistics.service.gov.uk/find-statistics/permanent-and-fixed-period-exclusions-in-england">Department of Education</a>.</p>
 
-<p><strong>London</strong> has the highest number of pupils in education who have a SEN statement or EHC with <strong>17%</strong> (94,636). The <strong>North East</strong> has the lowest number of pupils with a SEN statement or EHC at <strong>5%</strong> (27,318).</p>
+<p><strong>London</strong> has the highest number of SEN pupils in education who have a statement or EHC plan with <strong>17%</strong> (94,636). Whereas the <strong>North East</strong> has the lowest number of SEN pupils with a SEN statement or EHC plan at <strong>5%</strong>(27,318). </p>
 
 ## Link to story for DS on The DDJ Nerd website
 [The DDJ Nerd - Pupils with special educational needs in England most likely to receive no statement or EHC plan](https://theddjnerd.wordpress.com/2020/09/30/pupils-sen-statement-ehc-plan/) - <strong>30/09/2020</strong>
